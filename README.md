@@ -75,8 +75,9 @@ https://github.com/nihui/realsr-ncnn-vulkan
 https://github.com/nihui/srmd-ncnn-vulkan
 
 https://github.com/nihui/RealSR
+https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer (NVIDIA Upscaler, utilizes NVIDIA´s Ansel RTX
+) )
 
-https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer (NVIDIA Upscaler, utilizes NVIDIA´s Ansel RTX, super small 300kb (!), upscale options 2x, 4x)
 
 
 
