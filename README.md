@@ -13,15 +13,26 @@ Style2paints V4 is the current best AI driven lineart colorization tool.
 
 https://github.com/lllyasviel/style2paints
 
+Source code not available for the latest release.
+
+JavaScript, Python, Tensorflow
+
 # Waifu2x-Extension-GUI 
 
  Photo/Video/GIF enlargement using machine learning
 
 https://github.com/AaronFeng753/Waifu2x-Extension-GUI
 
+C++, python, qt, caffe, ncnn_vulkan
+
+AGPL-3.0 License
+
+
 # DAIN-App
 
 The backbone of this project is a algorithm called DAIN. (https://github.com/baowenbo/DAIN)
+
+
 
 https://grisk.itch.io/dain-app?download
 
