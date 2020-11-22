@@ -1,5 +1,11 @@
 # Deep-Learning-Applications-with-GUI
-List of FOSS Deep Learning Applications with GUI and/or CLI
+
+List of FOSS Deep Learning (Desktop) Applications with GUI and/or CLI.
+Most Deep Learning models require a complicated setup and are not ready to use out of the box.
+At best there is a Colab or Jupiter notebook available, which is good for testing, but not for production use. 
+
+
+
 
 # Style2Paints
 
