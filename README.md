@@ -76,7 +76,7 @@ https://github.com/nihui/srmd-ncnn-vulkan
 
 https://github.com/nihui/RealSR
 
-
+https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer (NVIDIA Upscaler, super small 300kb (!), upscale options 2x, 4x)
 
 
 
