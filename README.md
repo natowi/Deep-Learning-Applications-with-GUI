@@ -32,6 +32,8 @@ AGPL-3.0 License
 
 The backbone of this project is a algorithm called DAIN. (https://github.com/baowenbo/DAIN)
 
+https://grisk.itch.io/dain-app?download
+
 # DAIN Vulkan GUI
 
 AI-Powered video interpolater (eg. 30fps -> 60fps) for Vulkan devices. Based on dain-ncnn-vulkan and ffmpeg
@@ -40,7 +42,7 @@ AI-Powered video interpolater (eg. 30fps -> 60fps) for Vulkan devices. Based on 
 https://github.com/Mar2ck/DAIN-Vulkan-GUI
 
 
-https://grisk.itch.io/dain-app?download
+
 
 # Flowframes
 
