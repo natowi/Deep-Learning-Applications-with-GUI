@@ -83,9 +83,20 @@ https://github.com/nihui/realsr-ncnn-vulkan
 https://github.com/nihui/srmd-ncnn-vulkan
 
 https://github.com/nihui/RealSR
-https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer (NVIDIA Upscaler, utilizes NVIDIA´s Ansel RTX
-) )
 
+https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer (NVIDIA Upscaler, utilizes NVIDIA´s Ansel RTX) )
+
+# VapourSynth-Super-Resolution-Helper
+
+https://github.com/AlphaAtlas/VapourSynth-Super-Resolution-Helper
+
+# dandere2x-tremx
+
+https://github.com/Tremeschin/dandere2x-tremx
+
+# Anime4kSharp
+
+https://github.com/shadow578/Anime4kSharp
 
 
 
