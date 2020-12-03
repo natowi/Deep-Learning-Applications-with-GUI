@@ -40,6 +40,10 @@ ncnn implementation of DAIN, Depth-Aware Video Frame Interpolation.
 
 https://github.com/nihui/dain-ncnn-vulkan
 
+## Dain-App
+
+https://github.com/BurguerJohn/Dain-App
+
 ## dandere2x-tremx
 
 https://github.com/Tremeschin/dandere2x-tremx
