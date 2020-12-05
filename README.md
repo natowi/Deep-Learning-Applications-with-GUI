@@ -62,6 +62,8 @@ https://github.com/n00mkrad/cupscale
 
 Flowframes is a simple but powerful app that utilizes AI frameworks to interpolate videos in order to increase their framerate with little to no noticable quality loss. (DAIN, CAIN, RIFE)
 
+https://github.com/n00mkrad/flowframes
+
 https://nmkd.itch.io/flowframes
 
 ## NVIDIA-Ansel-AI-Enhancer
