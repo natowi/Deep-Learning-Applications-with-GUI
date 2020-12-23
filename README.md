@@ -107,3 +107,11 @@ AGPL-3.0 License
 ## waifu2x-ncnn-vulkan
 
 https://github.com/nihui/waifu2x-ncnn-vulkan
+
+# GAN / Style Transfer
+
+## TorchRayLib
+
+TorchRayLib++: A CMake based AI & generative art platform, integrating the rayib GUI and the PyTorch C++ Deep Learning Library.
+
+https://github.com/QuantScientist/TorchRayLib
