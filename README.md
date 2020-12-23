@@ -115,3 +115,12 @@ https://github.com/nihui/waifu2x-ncnn-vulkan
 TorchRayLib++: A CMake based AI & generative art platform, integrating the rayib GUI and the PyTorch C++ Deep Learning Library.
 
 https://github.com/QuantScientist/TorchRayLib
+
+# DL Training GUI
+
+## AIDeveloper
+
+GUI-based software for training, evaluating and applying deep neural nets for image classification 
+
+https://github.com/maikherbig/AIDeveloper
+
