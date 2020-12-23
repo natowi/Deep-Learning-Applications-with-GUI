@@ -124,3 +124,11 @@ GUI-based software for training, evaluating and applying deep neural nets for im
 
 https://github.com/maikherbig/AIDeveloper
 
+# Ready to use Plugins
+
+## vstSpleeter
+
+audio source separation library vst plugin
+
+https://github.com/gvne/vstSpleeter
+
