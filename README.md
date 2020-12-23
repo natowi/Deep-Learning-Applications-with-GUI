@@ -26,6 +26,8 @@ https://github.com/shadow578/Anime4kSharp
 
 The backbone of this project is a algorithm called DAIN. (https://github.com/baowenbo/DAIN)
 
+https://github.com/BurguerJohn/Dain-App
+
 https://grisk.itch.io/dain-app?download
 
 ## DAIN Vulkan GUI
