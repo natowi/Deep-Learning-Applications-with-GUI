@@ -4,7 +4,7 @@ List of FOSS Deep Learning (Desktop) Applications with GUI and/or CLI. Most Deep
 
 The software in this list is ready to use (CLI or GUI).
 
-# Image colorization
+# 🎨 Image colorization
 
 ## Style2Paints
 
@@ -16,7 +16,7 @@ Source code not available for the latest release.
 
 JavaScript, Python, Tensorflow
 
-# Video frame interpolation
+# 🎞️ Video frame interpolation
 
 ## DAIN-App
 
@@ -56,7 +56,7 @@ https://github.com/n00mkrad/flowframes
 
 https://nmkd.itch.io/flowframes
 
-# Image/Video upscaling
+# 🖼️ Image/Video upscaling
 
 ## Anime4kSharp
 
@@ -127,7 +127,7 @@ TorchRayLib++: A CMake based AI & generative art platform, integrating the rayib
 
 https://github.com/QuantScientist/TorchRayLib
 
-# DL Training GUI
+# :toolbox: DL Training GUI
 
 ## AIDeveloper
 
@@ -135,7 +135,7 @@ GUI-based software for training, evaluating and applying deep neural nets for im
 
 https://github.com/maikherbig/AIDeveloper
 
-# Ready to use Plugins
+# 🧩 Ready to use Plugins
 
 ## vstSpleeter
 
