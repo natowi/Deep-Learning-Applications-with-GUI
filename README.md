@@ -16,11 +16,7 @@ Source code not available for the latest release.
 
 JavaScript, Python, Tensorflow
 
-# Image/Video upscaling
-
-## Anime4kSharp
-
-https://github.com/shadow578/Anime4kSharp
+# Video frame interpolation
 
 ## DAIN-App
 
@@ -46,19 +42,11 @@ https://github.com/nihui/dain-ncnn-vulkan
 
 https://github.com/BurguerJohn/Dain-App
 
-## dandere2x-tremx
-
-https://github.com/Tremeschin/dandere2x-tremx
-
 ## cain-ncnn-vulkan
 
+Video Frame Interpolation
+
 https://github.com/nihui/cain-ncnn-vulkan
-
-## Cupscale
-
-Image Upscaling GUI based on ESRGAN - WORK IN PROGRESS
-
-https://github.com/n00mkrad/cupscale
 
 ## Flowframes
 
@@ -68,6 +56,23 @@ https://github.com/n00mkrad/flowframes
 
 https://nmkd.itch.io/flowframes
 
+# Image/Video upscaling
+
+## Anime4kSharp
+
+https://github.com/shadow578/Anime4kSharp
+
+## dandere2x-tremx
+
+video compression 
+https://github.com/Tremeschin/dandere2x-tremx
+
+## Cupscale
+
+Image Upscaling GUI based on ESRGAN - WORK IN PROGRESS
+
+https://github.com/n00mkrad/cupscale
+
 ## NVIDIA-Ansel-AI-Enhancer
 
 NVIDIA Upscaler, utilizes NVIDIA´s Ansel RTX. Requires latest drivers and a RTX GPU. Free, but not open source. 
@@ -76,7 +81,11 @@ https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer
 
 ## RealSR
 
-https://github.com/nihui/RealSR
+Real-World Super-Resolution via Kernel Estimation and Noise Injection 
+
+https://github.com/jixiaozhong/RealSR
+
+(https://github.com/nihui/RealSR)
 
 ## realsr-ncnn-vulkan
 
