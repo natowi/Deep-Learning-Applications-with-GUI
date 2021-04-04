@@ -73,6 +73,11 @@ Image Upscaling GUI based on ESRGAN - WORK IN PROGRESS
 
 https://github.com/n00mkrad/cupscale
 
+## IEU.Winforms
+
+Windows only GUI for ESRGAN with additional features 
+https://github.com/ptrsuder/IEU.Winforms
+
 ## NVIDIA-Ansel-AI-Enhancer
 
 NVIDIA Upscaler, utilizes NVIDIA´s Ansel RTX. Requires latest drivers and a RTX GPU. Free, but not open source. 
