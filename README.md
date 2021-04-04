@@ -56,6 +56,13 @@ https://github.com/n00mkrad/flowframes
 
 https://nmkd.itch.io/flowframes
 
+# 🖼️🎞️ Video upscaler
+
+## video2x
+
+A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. 
+https://github.com/k4yt3x/video2x
+
 # 🖼️ Image/Video upscaling
 
 ## Anime4kSharp
