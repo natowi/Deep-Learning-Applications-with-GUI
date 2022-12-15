@@ -17,8 +17,16 @@ Source code not available for the latest release.
 JavaScript, Python, Tensorflow
 
 ## NMKD Stable Diffusion GUI - AI Image Generator
+
 https://github.com/n00mkrad/text2image-gui
+
 https://nmkd.itch.io/t2i-gui
+
+## OnnxDiffusersUI
+
+Stable Diffusion on AMD graphics 
+
+https://github.com/azuritecoin/OnnxDiffusersUI
 
 # 🎞️ Video frame interpolation
 
