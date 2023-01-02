@@ -4,6 +4,10 @@ List of FOSS Deep Learning (Desktop) Applications with GUI and/or CLI. Most Deep
 
 The software in this list is ready to use (CLI or GUI).
 
+# 3D / NeRF: Neural Radiance Fields
+
+https://github.com/NVlabs/instant-ngp#interactive-training-and-rendering
+
 # 🎨 Image colorization
 
 ## Style2Paints
