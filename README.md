@@ -26,6 +26,12 @@ https://github.com/n00mkrad/text2image-gui
 
 https://nmkd.itch.io/t2i-gui
 
+##ComfyUI
+
+This ui will let you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface. For some workflow examples and see what ComfyUI can do you can check out:
+
+https://github.com/comfyanonymous/ComfyUI
+
 ## OnnxDiffusersUI
 
 Stable Diffusion on AMD graphics 
