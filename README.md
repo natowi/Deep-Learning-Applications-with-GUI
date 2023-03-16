@@ -44,6 +44,10 @@ Stable Diffusion on AMD graphics
 
 https://github.com/azuritecoin/OnnxDiffusersUI
 
+## WebUI 
+ready to use colab based notebooks with web ui
+https://github.com/camenduru/stable-diffusion-webui-colab
+
 # 🎞️ Video frame interpolation
 
 ## DAIN-App
