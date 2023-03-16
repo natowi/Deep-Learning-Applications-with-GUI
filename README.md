@@ -8,7 +8,7 @@ The software in this list is ready to use (CLI or GUI).
 
 https://github.com/NVlabs/instant-ngp#interactive-training-and-rendering
 
-# 🎨 Image colorization
+# 🎨 Image (generative)
 
 ## Style2Paints
 
@@ -25,6 +25,12 @@ JavaScript, Python, Tensorflow
 https://github.com/n00mkrad/text2image-gui
 
 https://nmkd.itch.io/t2i-gui
+
+## stable-diffusion-ui
+
+Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image
+
+https://github.com/cmdr2/stable-diffusion-ui
 
 ## ComfyUI
 
