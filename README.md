@@ -54,6 +54,12 @@ ready to use colab based notebooks with web ui
 
 https://github.com/camenduru/stable-diffusion-webui-colab
 
+## InvokeAI
+
+ InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. 
+
+https://github.com/invoke-ai/InvokeAI
+
 ## Lama Cleaner
 
 A free and open-source inpainting tool powered by SOTA AI model.
