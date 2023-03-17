@@ -44,9 +44,23 @@ Stable Diffusion on AMD graphics
 
 https://github.com/azuritecoin/OnnxDiffusersUI
 
+## Diffusion Bee - Stable Diffusion GUI App for MacOS
+
+https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
+
 ## WebUI 
+
 ready to use colab based notebooks with web ui
+
 https://github.com/camenduru/stable-diffusion-webui-colab
+
+## Lama Cleaner
+
+A free and open-source inpainting tool powered by SOTA AI model.
+
+https://github.com/Sanster/lama-cleaner
+
+https://panicbyte.itch.io/lama-cleaner
 
 # 🎞️ Video frame interpolation
 
