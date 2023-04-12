@@ -85,6 +85,18 @@ https://github.com/Sanster/lama-cleaner
 
 https://panicbyte.itch.io/lama-cleaner
 
+# Audio
+
+## Ultimate Vocal Remover GUI v5.5.1
+
+This application uses state-of-the-art source separation models to remove vocals from audio files. UVR's core developers trained all of the models provided in this package (except for the Demucs v3 and v4 4-stem models).
+
+https://github.com/Anjok07/ultimatevocalremovergui
+
+## SoftVC VITS Singing Voice Conversion Fork
+
+https://github.com/34j/so-vits-svc-fork
+
 # 🎞️ Video frame interpolation
 
 ## DAIN-App
