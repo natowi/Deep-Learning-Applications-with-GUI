@@ -4,6 +4,12 @@ List of FOSS Deep Learning (Desktop) Applications with GUI and/or CLI. Most Deep
 
 The software in this list is ready to use (CLI or GUI).
 
+## various apps
+
+Paper2GUI is an AI desktop Application toolbox for everyone no matter your background with it being free and ready to use out of the box, already supporting 10+ AI models, covering the fields of speech synthesis, video frame filling, video overscoring, target detection, image stylization, OCR recognition, etc. Supporting Windows, Mac OS, Linux systems.
+
+https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md
+
 # 3D / NeRF: Neural Radiance Fields
 
 https://github.com/NVlabs/instant-ngp#interactive-training-and-rendering
@@ -109,7 +115,25 @@ https://github.com/Sanster/lama-cleaner
 
 https://panicbyte.itch.io/lama-cleaner
 
+## carefree-creator
+
+ AI magics meet Infinite draw board. 
+
+https://github.com/carefree0910/carefree-creator
+
+## photoshot
+
+An open-source AI avatar generator web app
+
+https://github.com/shinework/photoshot
+
 # Audio
+
+##riffusion
+
+Riffusion is an app for real-time music generation with stable diffusion.
+
+https://github.com/riffusion/riffusion-app
 
 ## Ultimate Vocal Remover GUI v5.5.1
 
