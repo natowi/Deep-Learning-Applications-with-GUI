@@ -131,6 +131,12 @@ https://github.com/shinework/photoshot
 
 # :notes: Audio
 
+## tacotron2-tts-GUI
+
+GUI wrapper for synthesize. Allows CPU-only synthesis via a toggleable switch. Portable exe file is available (that runs on CPU only).
+
+https://github.com/lokkelvin2/tacotron2-tts-GUI
+
 ## riffusion
 
 Riffusion is an app for real-time music generation with stable diffusion.
