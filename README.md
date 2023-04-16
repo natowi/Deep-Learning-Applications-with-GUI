@@ -27,6 +27,12 @@ curl -o ggml-alpaca-7b-q4.bin -C - https://gateway.estuary.tech/gw/ipfs/QmQ1bf2B
 curl -o ggml-alpaca-7b-q4.bin -C - https://cloudflare-ipfs.com/ipfs/QmQ1bf2BTnYxq73MFJWu1B7bQ2UD6qG7D7YDCxhTndVkPC
 Read more here: https://medium.com/geekculture/writing-a-medium-article-using-ai-stanford-alpaca-running-on-your-local-pc-e025416a032a
 
+## dalai
+
+Run LLaMA and Alpaca on your computer.
+
+https://github.com/cocktailpeanut/dalai
+
 ## GTP4All
 
 Installs a native chat-client with auto-update functionality that runs on your desktop with the GPT4All-J model baked into it.
