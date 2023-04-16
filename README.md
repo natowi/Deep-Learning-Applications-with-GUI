@@ -135,6 +135,14 @@ This application uses state-of-the-art source separation models to remove vocals
 
 https://github.com/Anjok07/ultimatevocalremovergui
 
+## SpleeterGUI
+
+SpleeterGUI - Music source separation desktop app
+
+Windows Desktop Front end for Spleeter - AI source separation
+
+https://github.com/boy1dr/SpleeterGui
+
 ## SoftVC VITS Singing Voice Conversion Fork
 
 https://github.com/34j/so-vits-svc-fork
