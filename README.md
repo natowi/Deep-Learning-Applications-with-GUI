@@ -25,6 +25,18 @@ curl -o ggml-alpaca-7b-q4.bin -C - https://gateway.estuary.tech/gw/ipfs/QmQ1bf2B
 curl -o ggml-alpaca-7b-q4.bin -C - https://cloudflare-ipfs.com/ipfs/QmQ1bf2BTnYxq73MFJWu1B7bQ2UD6qG7D7YDCxhTndVkPC
 Read more here: https://medium.com/geekculture/writing-a-medium-article-using-ai-stanford-alpaca-running-on-your-local-pc-e025416a032a
 
+## Gpt4All Web UI
+
+This is a Flask web application that provides a chat UI for interacting with llamacpp based chatbots such as GPT4all, vicuna etc...
+
+https://github.com/nomic-ai/gpt4all-ui
+
+## AutoGPT GUI
+
+A graphical user interface to AutoGPT
+
+https://github.com/thecookingsenpai/autogpt-gui
+
 # 🎨 Image (generative)
 
 ## Style2Paints
@@ -48,6 +60,12 @@ https://nmkd.itch.io/t2i-gui
 Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image
 
 https://github.com/cmdr2/stable-diffusion-ui
+
+## MochiDiffusion
+
+This app uses Apple's Core ML Stable Diffusion implementation to achieve maximum performance and speed on Apple Silicon based Macs while reducing memory requirements.
+
+https://github.com/godly-devotion/MochiDiffusion
 
 ## ComfyUI
 
