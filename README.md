@@ -145,6 +145,8 @@ This is a simple Streamlit UI for OpenAI's Whisper speech-to-text model. It let'
 
 https://github.com/hayabhay/whisper-ui for https://github.com/openai/whisper
 
+https://grisk.itch.io/whisper-gui
+
 ## Ultimate Vocal Remover GUI v5.5.1
 
 This application uses state-of-the-art source separation models to remove vocals from audio files. UVR's core developers trained all of the models provided in this package (except for the Demucs v3 and v4 4-stem models).
