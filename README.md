@@ -131,11 +131,19 @@ https://github.com/shinework/photoshot
 
 # :notes: Audio
 
-##riffusion
+## riffusion
 
 Riffusion is an app for real-time music generation with stable diffusion.
 
 https://github.com/riffusion/riffusion-app
+
+## whisper-ui
+
+Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+
+This is a simple Streamlit UI for OpenAI's Whisper speech-to-text model. It let's you download and transcribe media from YouTube videos, playlists, or local files. You can then browse, filter, and search through your saved audio files.
+
+https://github.com/hayabhay/whisper-ui for https://github.com/openai/whisper
 
 ## Ultimate Vocal Remover GUI v5.5.1
 
