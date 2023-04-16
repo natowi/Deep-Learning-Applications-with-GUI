@@ -4,9 +4,9 @@ List of FOSS Deep Learning (Desktop) Applications with GUI and/or CLI. Most Deep
 
 The software in this list is ready to use (CLI or GUI).
 
-📃 Text 🎨 Image (generative) :notes: Audio 🎞️ Video frame interpolation 🖼️🎞️ Video upscaler 🖼️ Image/Video upscaling 🧩 Ready to use Plugins
+:camera_flash: NeRF 📃 Text 🎨 Image (generative) :notes: Audio 🎞️ Video frame interpolation 🖼️🎞️ Video upscaler 🖼️ Image/Video upscaling 🧩 Ready to use Plugins
 
-# 3D / NeRF: Neural Radiance Fields
+# :camera_flash: 3D / NeRF: Neural Radiance Fields
 
 https://github.com/NVlabs/instant-ngp#interactive-training-and-rendering
 
