@@ -16,6 +16,14 @@ https://github.com/NVlabs/instant-ngp#interactive-training-and-rendering
 https://github.com/argosopentech/argos-translate#installation
 https://github.com/ymoslem/DesktopTranslator
 
+## text-generation-webui
+
+A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+
+Its goal is to become the AUTOMATIC1111/stable-diffusion-webui of text generation.
+
+https://github.com/oobabooga/text-generation-webui
+
 ## Chat-Style LLM (Alpaca/Llama) (Chat GTP Clone)
 https://github.com/antimatter15/alpaca.cpp
 https://github.com/tatsu-lab/stanford_alpaca
