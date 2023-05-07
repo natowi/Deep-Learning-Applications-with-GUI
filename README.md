@@ -338,3 +338,5 @@ https://github.com/gvne/vstSpleeter
 Paper2GUI is an AI desktop Application toolbox for everyone no matter your background with it being free and ready to use out of the box, already supporting 10+ AI models, covering the fields of speech synthesis, video frame filling, video overscoring, target detection, image stylization, OCR recognition, etc. Supporting Windows, Mac OS, Linux systems.
 
 https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md
+
+Free: https://www.nvidia.com/en-us/studio/canvas/
