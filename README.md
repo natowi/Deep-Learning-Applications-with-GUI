@@ -137,6 +137,12 @@ An open-source AI avatar generator web app
 
 https://github.com/shinework/photoshot
 
+## DeOldify.NET
+
+DeOldify.NET: cross-platform application for coloring black and white photos"
+
+https://github.com/ColorfulSoft/DeOldify.NET
+
 # :notes: Audio
 
 ## tacotron2-tts-GUI
