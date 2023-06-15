@@ -12,6 +12,9 @@ https://github.com/NVlabs/instant-ngp#interactive-training-and-rendering
 
 # 📃 Text
 
+## Audio to text
+https://github.com/Const-me/Whisper
+
 ## Translation
 https://github.com/argosopentech/argos-translate#installation
 https://github.com/ymoslem/DesktopTranslator
