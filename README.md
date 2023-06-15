@@ -74,6 +74,12 @@ Source code not available for the latest release.
 
 JavaScript, Python, Tensorflow
 
+## StableStudio
+
+StableStudio, the open-source version of DreamStudio!
+
+https://github.com/Stability-AI/StableStudio
+
 ## NMKD Stable Diffusion GUI - AI Image Generator
 
 https://github.com/n00mkrad/text2image-gui
@@ -240,6 +246,10 @@ https://nmkd.itch.io/flowframes
 
 A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. 
 https://github.com/k4yt3x/video2x
+
+## 🎞️ Video Deep Face
+
+https://github.com/iperov/DeepFaceLive
 
 # 🖼️ Image/Video upscaling
 
