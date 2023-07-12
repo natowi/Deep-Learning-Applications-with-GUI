@@ -4,7 +4,7 @@ List of FOSS Deep Learning (Desktop) Applications with GUI and/or CLI. Most Deep
 
 The software in this list is ready to use (CLI or GUI).
 
-:camera_flash: NeRF 📃 Text 🎨 Image (generative) :notes: Audio 🎞️ Video frame interpolation 🖼️🎞️ Video upscaler 🖼️ Image/Video upscaling 🧩 Ready to use Plugins
+:camera_flash: NeRF 📃 Text 🎨 Image :notes: Audio 🎞️ Video frame interpolation 🖼️🎞️ Video upscaler 🖼️ Image/Video upscaling 🧩 Ready to use Plugins
 
 # :camera_flash: 3D / NeRF: Neural Radiance Fields
 
@@ -151,6 +151,12 @@ https://github.com/shinework/photoshot
 DeOldify.NET: cross-platform application for coloring black and white photos"
 
 https://github.com/ColorfulSoft/DeOldify.NET
+
+## Queryable
+
+Offline photo search App for iOS
+
+https://github.com/mazzzystar/Queryable
 
 # :notes: Audio
 
