@@ -104,11 +104,10 @@ This ui will let you design and execute advanced stable diffusion pipelines usin
 
 https://github.com/comfyanonymous/ComfyUI
 
-## OnnxDiffusersUI
+## Stable Diffusion on AMD GPU
 
-Stable Diffusion on AMD graphics 
-
-https://github.com/azuritecoin/OnnxDiffusersUI
+https://github.com/azuritecoin/OnnxDiffusersUI (deprecated)
+https://github.com/lshqqytiger/stable-diffusion-webui-directml
 
 ## Diffusion Bee - Stable Diffusion GUI App for MacOS
 
