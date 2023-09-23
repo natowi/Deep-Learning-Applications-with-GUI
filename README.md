@@ -126,6 +126,11 @@ https://github.com/camenduru/stable-diffusion-webui-colab
 
 https://github.com/invoke-ai/InvokeAI
 
+## airunner
+
+https://github.com/Capsize-Games/airunner $
+
+
 ## Lama Cleaner
 
 A free and open-source inpainting tool powered by SOTA AI model.
@@ -259,6 +264,9 @@ https://nmkd.itch.io/flowframes
 A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. 
 https://github.com/k4yt3x/video2x
 
+## https://github.com/Communist02/AnimePlayer
+
+
 ## 🎞️ Video Deep Face
 
 https://github.com/iperov/DeepFaceLive
@@ -349,6 +357,14 @@ https://github.com/nihui/waifu2x-ncnn-vulkan
 TorchRayLib++: A CMake based AI & generative art platform, integrating the rayib GUI and the PyTorch C++ Deep Learning Library.
 
 https://github.com/QuantScientist/TorchRayLib
+
+## more
+https://github.com/Seprentes/ScaleUp
+https://github.com/HolyWu/vs-realesrgan
+https://github.com/tumuyan/RealSR-NCNN-Android
+https://github.com/TransparentLC/realesrgan-gui/blob/master/README.en-US.md
+https://github.com/Lucchetto/SuperImage
+https://github.com/Tohrusky/Final2x
 
 # :toolbox: DL Training GUI
 
