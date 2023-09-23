@@ -12,6 +12,10 @@ https://github.com/NVlabs/instant-ngp#interactive-training-and-rendering
 
 # 📃 Text
 
+## chatai
+
+https://github.com/Capsize-Games/chatai
+
 ## Audio to text
 https://github.com/Const-me/Whisper
 https://github.com/FL33TW00D/whisper-turbo (wip)
