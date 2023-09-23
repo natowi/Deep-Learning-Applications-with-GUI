@@ -206,6 +206,12 @@ https://github.com/boy1dr/SpleeterGui
 
 https://github.com/34j/so-vits-svc-fork
 
+## subsync subtitle alignment
+
+This is an automatic movie subtitle synchronization tool. Synchronization is done by listening to the audio track, translating it if necessary.
+
+https://github.com/sc0ty/subsync/
+
 # 🎞️ Video frame interpolation
 
 ## DAIN-App
@@ -258,6 +264,12 @@ https://github.com/k4yt3x/video2x
 https://github.com/iperov/DeepFaceLive
 
 # 🖼️ Image/Video upscaling
+
+## Final2x
+
+This is a powerful tool that allows for image super-resolution to arbitrary sizes using multiple models, designed to enhance the resolution and quality of images, making them clearer and more detailed. Presently, it supports several models, such as RealCUGAN, RealESRGAN, Waifu2x, and SRMD.
+
+https://github.com/Tohrusky/Final2x
 
 ## Upscayl
 Upscayl is a cross-platform application built with the Linux-first philosophy. This means that we prioritize Linux builds over others but that doesn't mean we'll break things for other OSes :) Makes use of Real-ESRGAN
