@@ -18,6 +18,9 @@ https://github.com/Capsize-Games/chatai
 
 ## Audio to text
 https://github.com/Const-me/Whisper
+
+https://github.com/CheshireCC/fatser-whisper-GUI
+
 https://github.com/FL33TW00D/whisper-turbo (wip)
 
 ## Translation
@@ -36,12 +39,6 @@ https://github.com/oobabooga/text-generation-webui
 https://github.com/antimatter15/alpaca.cpp
 https://github.com/tatsu-lab/stanford_alpaca
 https://github.com/tloen/alpaca-lora
-(No UI but ready to use Installer for running from CLI)
-Alpaca 7B model download (Model bin file size: 4017M)
-curl -o ./models/ggml-alpaca-7b-q4.bin -C - https://ipfs.io/ipfs/QmUp1UGeQFDqJKvtjbSYPBiZZKRjLp8shVP9hT8ZB9Ynv1
-curl -o ggml-alpaca-7b-q4.bin -C - https://gateway.estuary.tech/gw/ipfs/QmQ1bf2BTnYxq73MFJWu1B7bQ2UD6qG7D7YDCxhTndVkPC
-curl -o ggml-alpaca-7b-q4.bin -C - https://cloudflare-ipfs.com/ipfs/QmQ1bf2BTnYxq73MFJWu1B7bQ2UD6qG7D7YDCxhTndVkPC
-Read more here: https://medium.com/geekculture/writing-a-medium-article-using-ai-stanford-alpaca-running-on-your-local-pc-e025416a032a
 
 ## dalai
 
