@@ -19,9 +19,12 @@ https://github.com/Capsize-Games/chatai
 ## Audio to text
 https://github.com/Const-me/Whisper
 
-https://github.com/CheshireCC/fatser-whisper-GUI
+https://github.com/CheshireCC/fatser-whisper-GUI  (highly recommended)
 
 https://github.com/FL33TW00D/whisper-turbo (wip)
+
+## subtitle
+https://github.com/URUWorks/TeroSubtitler (whisper support)
 
 ## Translation
 https://github.com/argosopentech/argos-translate#installation
