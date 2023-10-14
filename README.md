@@ -21,6 +21,8 @@ https://github.com/Const-me/Whisper
 
 https://github.com/CheshireCC/fatser-whisper-GUI  (highly recommended)
 
+https://github.com/Purfview/whisper-standalone-win (ready to use .exe for cli use)
+
 https://github.com/FL33TW00D/whisper-turbo (wip)
 
 ## subtitle
