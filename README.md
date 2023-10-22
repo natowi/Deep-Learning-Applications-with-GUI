@@ -71,6 +71,12 @@ https://github.com/thecookingsenpai/autogpt-gui
 
 # 🎨 Image (generative)
 
+## Fooocus
+
+Fooocus is an image generating software. 
+
+https://github.com/lllyasviel/Fooocus
+
 ## Style2Paints
 
 Style2paints V4 is the current best AI driven lineart **colorization tool**.
