@@ -19,6 +19,8 @@ https://github.com/Capsize-Games/chatai
 ## Audio to text
 https://github.com/Const-me/Whisper
 
+https://github.com/kaixxx/noScribe
+
 https://github.com/CheshireCC/fatser-whisper-GUI  (highly recommended)
 
 https://github.com/Purfview/whisper-standalone-win (ready to use .exe for cli use)
