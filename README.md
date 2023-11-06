@@ -233,6 +233,10 @@ https://github.com/sc0ty/subsync/
 
 # 🎞️ Video frame interpolation
 
+## Video Dubbing
+
+https://github.com/jianchang512/pyvideotrans
+
 ## DAIN-App
 
 The backbone of this project is a algorithm called DAIN. (https://github.com/baowenbo/DAIN)
