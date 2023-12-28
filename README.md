@@ -179,6 +179,12 @@ https://github.com/mazzzystar/Queryable
 
 # :notes: Audio
 
+## clone-voice
+
+A sound cloning tool with a web interface, using your voice or any sound to record audio
+
+https://github.com/jianchang512/clone-voice
+
 ## tacotron2-tts-GUI
 
 GUI wrapper for synthesize. Allows CPU-only synthesis via a toggleable switch. Portable exe file is available (that runs on CPU only).
