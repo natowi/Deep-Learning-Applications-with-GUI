@@ -12,6 +12,12 @@ https://github.com/NVlabs/instant-ngp#interactive-training-and-rendering
 
 # 📃 Text
 
+## Jan
+
+Jan is an open-source ChatGPT alternative that runs 100% offline on your computer.
+
+https://github.com/janhq/jan
+
 ## text-generation-webui
 
 A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
