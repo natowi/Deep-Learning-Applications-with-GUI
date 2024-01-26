@@ -77,7 +77,7 @@ A graphical user interface to AutoGPT
 
 https://github.com/thecookingsenpai/autogpt-gui
 
-# 🎨 Image (generative)
+# 🎨 Image
 
 ## Fooocus
 
@@ -182,6 +182,12 @@ https://github.com/ColorfulSoft/DeOldify.NET
 Offline photo search App for iOS
 
 https://github.com/mazzzystar/Queryable
+
+## X-AnyLabeling
+
+Effortless data labeling with AI support from Segment Anything and other awesome models. 
+
+https://github.com/CVHub520/X-AnyLabeling
 
 # :notes: Audio
 
