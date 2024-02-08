@@ -107,6 +107,10 @@ https://github.com/n00mkrad/text2image-gui
 
 https://nmkd.itch.io/t2i-gui
 
+## stable-diffusion-webui-forge
+
+https://github.com/lllyasviel/stable-diffusion-webui-forge
+
 ## stable-diffusion-ui
 
 Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image
