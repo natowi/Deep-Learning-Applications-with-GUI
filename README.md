@@ -44,6 +44,9 @@ https://github.com/FL33TW00D/whisper-turbo (wip)
 ## subtitle
 https://github.com/URUWorks/TeroSubtitler (whisper support)
 
+## video-subtitle-generator
+https://github.com/YaoFANGUK/video-subtitle-generator
+
 ## Translation
 https://github.com/argosopentech/argos-translate#installation
 https://github.com/ymoslem/DesktopTranslator
